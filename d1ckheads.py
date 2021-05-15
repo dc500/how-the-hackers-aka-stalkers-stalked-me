@@ -28,7 +28,7 @@ while True:
             msg.set_content(url)
             msg['From'] = 'emailaddress@gmail.com'
             msg['To'] = 'emailaddress@gmail.com'
-            msg['Subject'] = 'New Daily Activity Report'
+            msg['Subject'] = 'Lets Stalk Daitona because Im a loser - New Daily Activity Report'
             fromaddr = 'emailaddress@gmail.com'
             toaddrs = ['emailaddress@gmail.com']
             server = smtplib.SMTP('smtp.gmail.com', 587)
