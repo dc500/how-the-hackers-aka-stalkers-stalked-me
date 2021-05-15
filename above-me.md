@@ -7,6 +7,6 @@ Thank god Mortal Kombat is real.
 
 
 ####
-<img src ="https://bestanimations.com/Games/Computer/MortalCombat/mortal-kombat-animated-gif-30.gif">
+<img src ="https://bestanimations.com/Games/Computer/MortalCombat/Tanya/tanya-mortal-kombat-animated-gif-10.gif">
 
 Choose you fighter! I choose ME. 
