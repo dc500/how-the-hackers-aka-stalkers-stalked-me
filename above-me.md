@@ -3,6 +3,10 @@ I am truly offended that you morons really really really think I care about like
 That's how you know that you're a STALKER and not so much hacker. A hacker will get in and get out.
 STALKERS get an apartment above you and follow you every move. I mean like damn I can't even take a dump in peace.
 Thank god Mortal Kombat is real.
+
+
+
+####
 <img src ="https://bestanimations.com/Games/Computer/MortalCombat/mortal-kombat-animated-gif-30.gif">
 
 Choose you fighter! I choose ME. 
