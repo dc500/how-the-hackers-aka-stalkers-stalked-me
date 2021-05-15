@@ -5,7 +5,7 @@ from email.message import EmailMessage
 import hashlib
 from urllib.request import urlopen
 
-url = 'ENTER THEH URL '
+url = 'ENTER THE URL '
 response = urlopen(url).read()
 currentHash = hashlib.sha224(response).hexdigest()
 
